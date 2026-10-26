@@ -1,5 +1,5 @@
 ## About Me:
-• Workin' at CV.UsahaJaya<br>• Busy fixin' up Seliee bot<br>• Run NightLaugh server as founder
+• At CV.Usaha Jaya<br>• Busy fixin up Seliee bot<br>• Run NightLaugh server as founder
 
 [![](https://komarev.com/ghpvc/?username=i-hikki&color=blue&style=flat)](https://github.com/i-hikki)
 
