@@ -1,7 +1,7 @@
 ## About Me:
 • At CV.Usaha Jaya<br>• Busy fixin up Seliee bot<br>• Run NightLaugh server as founder
 
-[![](https://komarev.com/ghpvc/?username=i-hikki&color=blue&style=flat)](https://github.com/i-hikki) [![](https://img.shields.io/discord/1224048331685101588?logo=discord&logoColor=white&label=Discord&color=5865F2&style=flat)](https://discord.gg/nYNDTSVZZG)
+[![](https://komarev.com/ghpvc/?username=i-hikki&color=5865F2&style=flat)](https://github.com/i-hikki) [![](https://img.shields.io/discord/1224048331685101588?logo=discord&logoColor=white&label=Discord&color=5865F2&style=flat)](https://discord.gg/nYNDTSVZZG)
 
 
 ## Socials:
